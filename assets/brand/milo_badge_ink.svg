@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#24201D"/>
+  <g transform="translate(256 270) scale(1.08) translate(-256 -300)">
+  <g fill="#D2693C">
+    <path d="M221 360 L 254 360 L 249 452 L 217 452 Z"/>
+    <path d="M258 360 L 291 360 L 295 452 L 263 452 Z"/>
+    <path d="M166 244 Q 256 230 346 244 L 298 366 L 214 366 Z"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <g stroke="#24201D" stroke-width="34">
+      <path d="M150 270 L 282 326"/>
+      <path d="M362 270 L 230 326"/>
+    </g>
+    <g stroke="#D2693C" stroke-width="17">
+      <path d="M150 270 L 282 326"/>
+      <path d="M362 270 L 230 326"/>
+    </g>
+  </g>
+  <g fill="#D2693C">
+    <path d="M124 256 Q 126 154 256 148 Q 386 154 388 256 L 344 256 Q 338 200 256 196 Q 174 200 168 256 Z"/>
+    <path d="M110 214 Q 140 204 172 220 L 170 256 Q 166 288 146 308 Q 132 318 120 306 Q 108 286 106 256 Z"/>
+    <path d="M110 224 Q 86 222 70 240 Q 92 246 112 242 Z"/>
+    <path d="M140 210 Q 136 178 156 160 Q 156 184 158 212 Z"/>
+    <path d="M340 222 Q 380 210 398 236 Q 404 258 396 290 L 350 280 Z"/>
+    <path d="M392 248 Q 424 270 420 330 L 410 330 Q 410 284 386 262 Z"/>
+  </g>
+  <circle cx="256" cy="226" r="28" fill="#D2693C" stroke="#24201D" stroke-width="8"/>
+  </g>
+</svg>
